@@ -1,0 +1,86 @@
+00:00:00: Backup started on Saturday August 8, 2015.
+00:00:00: Your time limit is 30 seconds and your memory limit is 128M
+00:00:02: Starting SQL backup.
+00:00:02: Processed table 'wp_commentmeta'.
+00:00:02: Processed table 'wp_comments'.
+00:00:02: Processed table 'wp_links'.
+00:00:02: Processed table 'wp_options'.
+00:00:13: Processed table 'wp_postmeta'.
+00:00:14: Processed table 'wp_posts'.
+00:00:14: Processed table 'wp_rg_form'.
+00:00:14: Processed table 'wp_rg_form_meta'.
+00:00:20: Processed table 'wp_rg_form_view'.
+00:00:20: Processed table 'wp_rg_incomplete_submissions'.
+00:00:20: Processed table 'wp_rg_lead'.
+00:00:24: Processed table 'wp_rg_lead_detail'.
+00:00:24: Processed table 'wp_rg_lead_detail_long'.
+00:00:24: Processed table 'wp_rg_lead_meta'.
+00:00:24: Processed table 'wp_rg_lead_notes'.
+00:00:24: Processed table 'wp_term_relationships'.
+00:00:24: Processed table 'wp_term_taxonomy'.
+00:00:24: Processed table 'wp_terms'.
+00:00:24: Processed table 'wp_usermeta'.
+00:00:24: Processed table 'wp_users'.
+00:00:24: Processed table 'wp_wpb2d_excluded_files'.
+00:00:24: Processed table 'wp_wpb2d_options'.
+00:00:24: Processed table 'wp_wpb2d_processed_dbtables'.
+00:00:24: Processed table 'wp_wpb2d_processed_files'.
+00:00:24: SQL backup complete. Starting file backup.
+00:00:30: Processed 18 files. Approximately 1% complete.
+00:00:36: Processed 73 files.
+00:00:42: Processed 953 files. Approximately 11% complete.
+00:00:48: Processed 1239 files. Approximately 15% complete.
+Uploaded Files:[{"file":"Connect-220x220.jpg","mtime":1380833317},{"file":"connect-150x100.jpg","mtime":1380060420},{"file":"Connect-340x244.jpg","mtime":1380833317},{"file":"Connect-620x244.jpg","mtime":1380833317}]
+00:00:54: Processed 1499 files. Approximately 18% complete.
+Uploaded Files:[{"file":"connect-250x64.jpg","mtime":1380060420},{"file":"Connect-125x125.jpg","mtime":1380833317},{"file":"connect-225x58.jpg","mtime":1380060420},{"file":"connect-220x125.jpg","mtime":1380060420},{"file":"Connect.jpg","mtime":1380833315},{"file":"Connect-225x140.jpg","mtime":1380833317}]
+00:01:00: Processed 1975 files. Approximately 23% complete.
+Uploaded Files:[{"file":"connect-168x120.jpg","mtime":1380060420},{"file":"service-times-220x220.jpg","mtime":1380060720},{"file":"plan-your-visit-125x125.jpg","mtime":1380060900},{"file":"Service-Times-220x125.jpg","mtime":1380830246}]
+00:01:06: Processed 2034 files. Approximately 24% complete.
+Uploaded Files:[{"file":"service-times-225x58.jpg","mtime":1380060720},{"file":"our-story-125x125.jpg","mtime":1380060540},{"file":"plan-your-visit-250x64.jpg","mtime":1380060900},{"file":"what-to-expect-250x64.jpg","mtime":1380060840},{"file":"what-to-expect-620x244.jpg","mtime":1380060840},{"file":"What-to-Expect-340x244.jpg","mtime":1380832401}]
+00:01:12: Processed 2113 files. Approximately 25% complete.
+Uploaded Files:[{"file":"what-to-expect-125x125.jpg","mtime":1380060840},{"file":"what-to-expect-225x58.jpg","mtime":1380060840},{"file":"Events1-168x120.jpg","mtime":1382370270},{"file":"plan-your-visit-225x58.jpg","mtime":1380060900},{"file":"Events1-620x244.jpg","mtime":1382370270},{"file":"our-story-225x58.jpg","mtime":1380060540}]
+00:01:18: Processed 2258 files. Approximately 27% complete.
+Uploaded Files:[{"file":"what-to-expect-225x140.jpg","mtime":1380060840},{"file":"plan-your-visit-150x100.jpg","mtime":1380060900},{"file":"Events1-220x220.jpg","mtime":1382370270},{"file":"Events1-340x244.jpg","mtime":1382370270},{"file":"Events1-220x125.jpg","mtime":1382370270},{"file":"Events1-225x140.jpg","mtime":1382370270}]
+00:01:24: Processed 2441 files. Approximately 29% complete.
+Uploaded Files:[{"file":"plan-your-visit.jpg","mtime":1380060900},{"file":"service-times-620x244.jpg","mtime":1380060720},{"file":"plan-your-visit-220x125.jpg","mtime":1380060900},{"file":"service-times-340x244.jpg","mtime":1380060720},{"file":"Our-Story.jpg","mtime":1382094625}]
+00:01:30: Processed 2484 files.
+Uploaded Files:[{"file":"what-to-expect-168x120.jpg","mtime":1380060840},{"file":"service-times-168x120.jpg","mtime":1380060720},{"file":"our-story-220x220.jpg","mtime":1380060540},{"file":"Service-Times-150x100.jpg","mtime":1380830246},{"file":"Our-Story-620x244.jpg","mtime":1382094625},{"file":"What-to-Expect.jpg","mtime":1380832400},{"file":"Service-Times-225x140.jpg","mtime":1380830246}]
+00:01:37: Processed 2521 files. Approximately 30% complete.
+Uploaded Files:[{"file":"Service-Times-125x125.jpg","mtime":1380830246},{"file":"what-to-expect-150x100.jpg","mtime":1380060840},{"file":"Our-Story-225x140.jpg","mtime":1382094625},{"file":"plan-your-visit-225x140.jpg","mtime":1380060900},{"file":"Events1-150x100.jpg","mtime":1382370270},{"file":"Our-Story-340x244.jpg","mtime":1382094625}]
+00:01:43: Processed 2669 files. Approximately 32% complete.
+Uploaded Files:[{"file":"plan-your-visit-340x244.jpg","mtime":1380060900},{"file":"What-to-Expect-220x125.jpg","mtime":1380832401},{"file":"what-to-expect-220x220.jpg","mtime":1380060840},{"file":"Events1-250x64.jpg","mtime":1382370270},{"file":"Service-Times-250x64.jpg","mtime":1380830246},{"file":"plan-your-visit-620x244.jpg","mtime":1380060900},{"file":"Events1-125x125.jpg","mtime":1382370270}]
+00:01:49: Processed 2697 files.
+Uploaded Files:[{"file":"our-story-220x125.jpg","mtime":1380060540},{"file":"events1-225x58.jpg","mtime":1380060960},{"file":"Service-Times.jpg","mtime":1380830245},{"file":"plan-your-visit-168x120.jpg","mtime":1380060900},{"file":"Our-Story-250x64.jpg","mtime":1382094625},{"file":"Plan-your-visit-220x220.jpg","mtime":1381776748}]
+00:01:55: Processed 3334 files. Approximately 39% complete.
+Uploaded Files:[{"file":"Our-Story-168x120.jpg","mtime":1382094625},{"file":"our-story-150x100.jpg","mtime":1380060540},{"file":"Events1.jpg","mtime":1382370269}]
+00:02:03: Processed 4366 files. Approximately 52% complete.
+00:02:09: Processed 4547 files. Approximately 54% complete.
+00:02:17: Processed 4617 files. Approximately 55% complete.
+00:02:23: Processed 4735 files. Approximately 56% complete.
+00:02:29: Processed 4863 files. Approximately 57% complete.
+00:02:35: Processed 4956 files. Approximately 59% complete.
+00:02:41: Processed 5016 files.
+00:02:47: Processed 5114 files. Approximately 60% complete.
+00:02:53: Processed 5260 files. Approximately 62% complete.
+00:02:59: Processed 5314 files. Approximately 63% complete.
+00:03:05: Processed 5435 files. Approximately 64% complete.
+00:03:11: Processed 5495 files. Approximately 65% complete.
+00:03:17: Processed 5911 files. Approximately 70% complete.
+00:03:23: Processed 6024 files. Approximately 71% complete.
+00:03:29: Processed 6217 files. Approximately 73% complete.
+00:03:35: Processed 6404 files. Approximately 76% complete.
+00:03:41: Processed 6502 files. Approximately 77% complete.
+00:03:47: Processed 6707 files. Approximately 79% complete.
+00:03:53: Processed 6896 files. Approximately 81% complete.
+00:03:59: Processed 7082 files. Approximately 84% complete.
+00:04:05: Processed 7270 files. Approximately 86% complete.
+00:04:11: Processed 7345 files. Approximately 87% complete.
+Uploaded Files:[{"file":"rol_wp-backup.sql","mtime":1439010024}]
+00:04:21: Processed 7664 files. Approximately 91% complete.
+00:04:27: Processed 7789 files. Approximately 92% complete.
+00:04:33: Processed 8041 files. Approximately 95% complete.
+00:04:40: Processed 8241 files. Approximately 97% complete.
+00:04:46: Processed 8280 files. Approximately 98% complete.
+00:04:50: Backup complete.
+00:04:50: A total of 8464 files were processed.
+00:04:50: A total of 76MB of memory was used to complete this backup.

@@ -1,0 +1,1 @@
+<?php require 'page-right-sidebar.php'; ?>

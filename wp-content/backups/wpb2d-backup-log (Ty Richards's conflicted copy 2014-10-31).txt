@@ -1,0 +1,71 @@
+00:10:18: Backup started on Tuesday October 28, 2014.
+00:10:18: Your time limit is 30 seconds and your memory limit is 128M
+00:10:20: Creating SQL backup.
+00:10:32: SQL backup complete. Starting file backup.
+00:10:38: Approximately 1% complete.
+00:10:44: Approximately 4% complete.
+00:10:50: Approximately 8% complete.
+Uploaded Files:[{"file":"20lb-Weight-Loss-Challenge-Online-Ad-944x244.jpg","mtime":1414431162},{"file":"20lb-Weight-Loss-Challenge-Online-Ad-250x108.jpg","mtime":1414431162},{"file":"20lb-Weight-Loss-Challenge-Online-Ad-225x140.jpg","mtime":1414431162},{"file":"20lb-Weight-Loss-Challenge-Online-Ad.jpg","mtime":1414431161}]
+00:10:56: Approximately 9% complete.
+Uploaded Files:[{"file":"20lb-Weight-Loss-Challenge-Online-Ad-620x350.jpg","mtime":1414431162},{"file":"20lb-Weight-Loss-Challenge-Online-Ad-340x265.jpg","mtime":1414431162},{"file":"20lb-Weight-Loss-Challenge-Online-Ad-168x120.jpg","mtime":1414431162},{"file":"20lb-Weight-Loss-Challenge-Online-Ad-125x125.jpg","mtime":1414431162},{"file":"20lb-Weight-Loss-Challenge-Online-Ad-150x100.jpg","mtime":1414431162},{"file":"20lb-Weight-Loss-Challenge-Online-Ad-220x125.jpg","mtime":1414431162},{"file":"20lb-Weight-Loss-Challenge-Online-Ad-220x220.jpg","mtime":1414431162}]
+00:11:02: Approximately 11% complete.
+Uploaded Files:[{"file":"20lb-Weight-Loss-Challenge-Online-Ad-225x97.jpg","mtime":1414431162},{"file":"connect-125x125.jpg","mtime":1380060420},{"file":"Connect-168x120.jpg","mtime":1380833317},{"file":"connect-340x244.jpg","mtime":1380060420},{"file":"Connect-150x100.jpg","mtime":1380833317}]
+00:11:08: Approximately 12% complete.
+Uploaded Files:[{"file":"connect-620x244.jpg","mtime":1380060420},{"file":"Connect-225x58.jpg","mtime":1380833317},{"file":"connect.jpg","mtime":1380060420},{"file":"Connect-220x125.jpg","mtime":1380833317},{"file":"connect-225x140.jpg","mtime":1380060420},{"file":"connect-220x220.jpg","mtime":1380060420},{"file":"Connect-250x64.jpg","mtime":1380833317}]
+00:11:14: Approximately 16% complete.
+Uploaded Files:[{"file":"Plan-your-visit-620x244.jpg","mtime":1381776748},{"file":"Events1-225x58.jpg","mtime":1382370270},{"file":"Plan-your-visit-168x120.jpg","mtime":1381776748},{"file":"events1-220x125.jpg","mtime":1380060960}]
+00:11:20: Approximately 16% complete.
+Uploaded Files:[{"file":"our-story-225x140.jpg","mtime":1380060540},{"file":"events1.jpg","mtime":1380060960},{"file":"Our-Story-220x220.jpg","mtime":1382094625},{"file":"Plan-your-visit-220x125.jpg","mtime":1381776748},{"file":"Plan-your-visit-225x58.jpg","mtime":1381776748},{"file":"what-to-expect-340x244.jpg","mtime":1380060840},{"file":"our-story-250x64.jpg","mtime":1380060540}]
+00:11:26: Approximately 17% complete.
+Uploaded Files:[{"file":"events1-125x125.jpg","mtime":1380060960},{"file":"Plan-your-visit-340x244.jpg","mtime":1381776748},{"file":"Service-Times-168x120.jpg","mtime":1380830246},{"file":"events1-150x100.jpg","mtime":1380060960},{"file":"What-to-Expect-125x125.jpg","mtime":1380832401},{"file":"service-times.jpg","mtime":1380060720},{"file":"service-times-220x125.jpg","mtime":1380060720}]
+00:11:32: Approximately 18% complete.
+Uploaded Files:[{"file":"Our-Story-225x58.jpg","mtime":1382094625},{"file":"Plan-your-visit-150x100.jpg","mtime":1381776748},{"file":"Our-Story-220x125.jpg","mtime":1382094625},{"file":"What-to-Expect-220x220.jpg","mtime":1380832401},{"file":"Service-Times-340x244.jpg","mtime":1380830246},{"file":"What-to-Expect-168x120.jpg","mtime":1380832401},{"file":"What-to-Expect-620x244.jpg","mtime":1380832401}]
+00:11:38: Approximately 18% complete.
+Uploaded Files:[{"file":"events1-340x244.jpg","mtime":1380060960},{"file":"What-to-Expect-225x58.jpg","mtime":1380832401},{"file":"Our-Story-150x100.jpg","mtime":1382094625},{"file":"What-to-Expect-225x140.jpg","mtime":1380832401},{"file":"events1-225x140.jpg","mtime":1380060960},{"file":"what-to-expect-220x125.jpg","mtime":1380060840},{"file":"events1-620x244.jpg","mtime":1380060960},{"file":"service-times-125x125.jpg","mtime":1380060720}]
+00:11:44: Approximately 19% complete.
+Uploaded Files:[{"file":"Service-Times-220x220.jpg","mtime":1380830246},{"file":"service-times-150x100.jpg","mtime":1380060720},{"file":"plan-your-visit-220x220.jpg","mtime":1380060900},{"file":"our-story-168x120.jpg","mtime":1380060540},{"file":"Our-Story-125x125.jpg","mtime":1382094625},{"file":"our-story-620x244.jpg","mtime":1380060540},{"file":"What-to-Expect-250x64.jpg","mtime":1380832401}]
+00:11:50: Approximately 19% complete.
+Uploaded Files:[{"file":"Service-Times-225x58.jpg","mtime":1380830246},{"file":"Plan-your-visit-125x125.jpg","mtime":1381776748},{"file":"events1-168x120.jpg","mtime":1380060960},{"file":"service-times-225x140.jpg","mtime":1380060720},{"file":"events1-220x220.jpg","mtime":1380060960},{"file":"Plan-your-visit-225x140.jpg","mtime":1381776748},{"file":"Service-Times-620x244.jpg","mtime":1380830246},{"file":"events1-250x64.jpg","mtime":1380060960}]
+00:11:56: Approximately 21% complete.
+Uploaded Files:[{"file":"what-to-expect.jpg","mtime":1380060840},{"file":"What-to-Expect-150x100.jpg","mtime":1380832401},{"file":"our-story-340x244.jpg","mtime":1380060540},{"file":"service-times-250x64.jpg","mtime":1380060720},{"file":"Plan-your-visit.jpg","mtime":1381776748},{"file":"our-story.jpg","mtime":1380060540},{"file":"Plan-your-visit-250x64.jpg","mtime":1381776748}]
+00:12:03: Approximately 29% complete.
+00:12:09: Approximately 30% complete.
+00:12:15: Approximately 30% complete.
+00:12:21: Approximately 31% complete.
+00:12:27: Approximately 32% complete.
+00:12:33: Approximately 33% complete.
+00:12:39: Approximately 33% complete.
+00:12:45: Approximately 33% complete.
+00:12:51: Approximately 34% complete.
+00:12:57: Approximately 35% complete.
+00:13:03: Approximately 35% complete.
+00:13:09: Approximately 36% complete.
+00:13:15: Approximately 39% complete.
+00:13:21: Approximately 39% complete.
+00:13:27: Approximately 40% complete.
+00:13:33: Approximately 41% complete.
+00:13:39: Approximately 42% complete.
+00:13:45: Approximately 43% complete.
+00:13:51: Approximately 44% complete.
+00:13:57: Approximately 45% complete.
+00:14:03: Approximately 46% complete.
+Uploaded Files:[{"file":"rol_wp-backup-core.sql","mtime":1414473030},{"file":"rol_wp-backup-plugins.sql","mtime":1414473032}]
+00:14:09: Approximately 47% complete.
+00:14:15: Approximately 49% complete.
+00:14:21: Approximately 49% complete.
+Uploaded Files:[{"file":"connect-340x244.jpg","mtime":1380060420},{"file":"Connect-150x100.jpg","mtime":1380833317},{"file":"connect-620x244.jpg","mtime":1380060420},{"file":"Connect-225x58.jpg","mtime":1380833317},{"file":"connect.jpg","mtime":1380060420},{"file":"Connect-220x125.jpg","mtime":1380833317},{"file":"connect-225x140.jpg","mtime":1380060420}]
+00:14:27: Approximately 49% complete.
+Uploaded Files:[{"file":"connect-220x220.jpg","mtime":1380060420},{"file":"Connect-250x64.jpg","mtime":1380833317},{"file":"what-to-expect-340x244.jpg","mtime":1380060840},{"file":"What-to-Expect-125x125.jpg","mtime":1380832401},{"file":"service-times-220x125.jpg","mtime":1380060720},{"file":"Our-Story-225x58.jpg","mtime":1382094625},{"file":"Plan-your-visit-150x100.jpg","mtime":1381776748},{"file":"What-to-Expect-620x244.jpg","mtime":1380832401}]
+00:14:33: Approximately 49% complete.
+Uploaded Files:[{"file":"events1-340x244.jpg","mtime":1380060960},{"file":"What-to-Expect-225x58.jpg","mtime":1380832401},{"file":"What-to-Expect-225x140.jpg","mtime":1380832401},{"file":"events1-225x140.jpg","mtime":1380060960},{"file":"events1-620x244.jpg","mtime":1380060960},{"file":"Service-Times-220x220.jpg","mtime":1380830246},{"file":"Our-Story-125x125.jpg","mtime":1382094625}]
+00:14:39: Approximately 49% complete.
+Uploaded Files:[{"file":"What-to-Expect-250x64.jpg","mtime":1380832401},{"file":"Service-Times-225x58.jpg","mtime":1380830246},{"file":"Plan-your-visit-125x125.jpg","mtime":1381776748},{"file":"events1-168x120.jpg","mtime":1380060960},{"file":"events1-220x220.jpg","mtime":1380060960},{"file":"Service-Times-620x244.jpg","mtime":1380830246},{"file":"our-story-340x244.jpg","mtime":1380060540},{"file":"Plan-your-visit.jpg","mtime":1381776748}]
+00:14:45: Approximately 49% complete.
+Uploaded Files:[{"file":"our-story.jpg","mtime":1380060540},{"file":"Plan-your-visit-250x64.jpg","mtime":1381776748}]
+00:14:51: Approximately 50% complete.
+00:14:57: Approximately 51% complete.
+00:15:03: Approximately 52% complete.
+00:15:09: Approximately 52% complete.
+00:15:13: Backup complete.
+00:15:13: A total of 14653 files were processed.
+00:15:13: A total of 61MB of memory was used to complete this backup.
